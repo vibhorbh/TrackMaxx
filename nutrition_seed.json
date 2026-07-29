@@ -1,0 +1,1752 @@
+[
+  {
+    "name": "Banana",
+    "servingDescription": "1 medium (118 g)",
+    "calories": 105,
+    "proteinG": 1.3,
+    "carbG": 27,
+    "fatG": 0.4,
+    "aliases": [
+      "banana",
+      "bananas"
+    ]
+  },
+  {
+    "name": "Apple",
+    "servingDescription": "1 medium (182 g)",
+    "calories": 95,
+    "proteinG": 0.5,
+    "carbG": 25,
+    "fatG": 0.3,
+    "aliases": [
+      "apple",
+      "apples"
+    ]
+  },
+  {
+    "name": "Orange",
+    "servingDescription": "1 medium (131 g)",
+    "calories": 62,
+    "proteinG": 1.2,
+    "carbG": 15.4,
+    "fatG": 0.2,
+    "aliases": [
+      "orange",
+      "oranges"
+    ]
+  },
+  {
+    "name": "Strawberries",
+    "servingDescription": "1 cup (152 g)",
+    "calories": 49,
+    "proteinG": 1.0,
+    "carbG": 11.7,
+    "fatG": 0.5,
+    "aliases": [
+      "strawberry",
+      "strawberries"
+    ]
+  },
+  {
+    "name": "Blueberries",
+    "servingDescription": "1 cup (148 g)",
+    "calories": 84,
+    "proteinG": 1.1,
+    "carbG": 21.4,
+    "fatG": 0.5,
+    "aliases": [
+      "blueberry",
+      "blueberries"
+    ]
+  },
+  {
+    "name": "Grapes",
+    "servingDescription": "1 cup (151 g)",
+    "calories": 104,
+    "proteinG": 1.1,
+    "carbG": 27.3,
+    "fatG": 0.2,
+    "aliases": [
+      "grape",
+      "grapes"
+    ]
+  },
+  {
+    "name": "Avocado",
+    "servingDescription": "1/2 medium (100 g)",
+    "calories": 160,
+    "proteinG": 2.0,
+    "carbG": 8.5,
+    "fatG": 14.7,
+    "aliases": [
+      "avocado",
+      "avo"
+    ]
+  },
+  {
+    "name": "Mango",
+    "servingDescription": "1 cup sliced (165 g)",
+    "calories": 99,
+    "proteinG": 1.4,
+    "carbG": 24.7,
+    "fatG": 0.6,
+    "aliases": [
+      "mango"
+    ]
+  },
+  {
+    "name": "Pineapple",
+    "servingDescription": "1 cup chunks (165 g)",
+    "calories": 82,
+    "proteinG": 0.9,
+    "carbG": 21.6,
+    "fatG": 0.2,
+    "aliases": [
+      "pineapple"
+    ]
+  },
+  {
+    "name": "Watermelon",
+    "servingDescription": "1 cup (152 g)",
+    "calories": 46,
+    "proteinG": 0.9,
+    "carbG": 11.5,
+    "fatG": 0.2,
+    "aliases": [
+      "watermelon"
+    ]
+  },
+  {
+    "name": "Kiwi",
+    "servingDescription": "1 medium (69 g)",
+    "calories": 42,
+    "proteinG": 0.8,
+    "carbG": 10.1,
+    "fatG": 0.4,
+    "aliases": [
+      "kiwi",
+      "kiwifruit"
+    ]
+  },
+  {
+    "name": "Peach",
+    "servingDescription": "1 medium (150 g)",
+    "calories": 58,
+    "proteinG": 1.4,
+    "carbG": 14.3,
+    "fatG": 0.4,
+    "aliases": [
+      "peach"
+    ]
+  },
+  {
+    "name": "Pear",
+    "servingDescription": "1 medium (178 g)",
+    "calories": 101,
+    "proteinG": 0.6,
+    "carbG": 27.1,
+    "fatG": 0.2,
+    "aliases": [
+      "pear"
+    ]
+  },
+  {
+    "name": "Broccoli",
+    "servingDescription": "1 cup chopped (91 g)",
+    "calories": 31,
+    "proteinG": 2.5,
+    "carbG": 6.0,
+    "fatG": 0.3,
+    "aliases": [
+      "broccoli"
+    ]
+  },
+  {
+    "name": "Spinach",
+    "servingDescription": "2 cups raw (60 g)",
+    "calories": 14,
+    "proteinG": 1.7,
+    "carbG": 2.2,
+    "fatG": 0.2,
+    "aliases": [
+      "spinach"
+    ]
+  },
+  {
+    "name": "Carrot",
+    "servingDescription": "1 medium (61 g)",
+    "calories": 25,
+    "proteinG": 0.6,
+    "carbG": 5.8,
+    "fatG": 0.1,
+    "aliases": [
+      "carrot",
+      "carrots"
+    ]
+  },
+  {
+    "name": "Sweet Potato",
+    "servingDescription": "1 medium baked (150 g)",
+    "calories": 130,
+    "proteinG": 2.3,
+    "carbG": 30.7,
+    "fatG": 0.2,
+    "aliases": [
+      "sweet potato",
+      "yam"
+    ]
+  },
+  {
+    "name": "White Potato",
+    "servingDescription": "1 medium baked (173 g)",
+    "calories": 161,
+    "proteinG": 4.3,
+    "carbG": 36.6,
+    "fatG": 0.2,
+    "aliases": [
+      "potato",
+      "baked potato"
+    ]
+  },
+  {
+    "name": "Tomato",
+    "servingDescription": "1 medium (123 g)",
+    "calories": 22,
+    "proteinG": 1.1,
+    "carbG": 4.8,
+    "fatG": 0.2,
+    "aliases": [
+      "tomato",
+      "tomatoes"
+    ]
+  },
+  {
+    "name": "Cucumber",
+    "servingDescription": "1 cup sliced (104 g)",
+    "calories": 16,
+    "proteinG": 0.7,
+    "carbG": 3.8,
+    "fatG": 0.1,
+    "aliases": [
+      "cucumber"
+    ]
+  },
+  {
+    "name": "Bell Pepper",
+    "servingDescription": "1 cup sliced (92 g)",
+    "calories": 24,
+    "proteinG": 1.0,
+    "carbG": 5.5,
+    "fatG": 0.2,
+    "aliases": [
+      "bell pepper",
+      "capsicum"
+    ]
+  },
+  {
+    "name": "Zucchini",
+    "servingDescription": "1 cup sliced (124 g)",
+    "calories": 21,
+    "proteinG": 1.5,
+    "carbG": 3.9,
+    "fatG": 0.4,
+    "aliases": [
+      "zucchini",
+      "courgette"
+    ]
+  },
+  {
+    "name": "Cauliflower",
+    "servingDescription": "1 cup chopped (107 g)",
+    "calories": 27,
+    "proteinG": 2.1,
+    "carbG": 5.3,
+    "fatG": 0.3,
+    "aliases": [
+      "cauliflower"
+    ]
+  },
+  {
+    "name": "Green Beans",
+    "servingDescription": "1 cup (100 g)",
+    "calories": 31,
+    "proteinG": 1.8,
+    "carbG": 7.0,
+    "fatG": 0.1,
+    "aliases": [
+      "green beans",
+      "string beans"
+    ]
+  },
+  {
+    "name": "Mixed Salad Greens",
+    "servingDescription": "2 cups (60 g)",
+    "calories": 10,
+    "proteinG": 1.0,
+    "carbG": 1.8,
+    "fatG": 0.1,
+    "aliases": [
+      "salad",
+      "lettuce",
+      "greens"
+    ]
+  },
+  {
+    "name": "Chicken Breast (grilled)",
+    "servingDescription": "100 g",
+    "calories": 165,
+    "proteinG": 31.0,
+    "carbG": 0.0,
+    "fatG": 3.6,
+    "aliases": [
+      "chicken breast",
+      "grilled chicken",
+      "chicken"
+    ]
+  },
+  {
+    "name": "Chicken Thigh (roasted)",
+    "servingDescription": "100 g",
+    "calories": 209,
+    "proteinG": 26.0,
+    "carbG": 0.0,
+    "fatG": 10.9,
+    "aliases": [
+      "chicken thigh"
+    ]
+  },
+  {
+    "name": "Ground Beef (85/15, cooked)",
+    "servingDescription": "100 g",
+    "calories": 250,
+    "proteinG": 25.9,
+    "carbG": 0.0,
+    "fatG": 17.0,
+    "aliases": [
+      "ground beef",
+      "hamburger meat",
+      "beef mince"
+    ]
+  },
+  {
+    "name": "Beef Steak (sirloin, grilled)",
+    "servingDescription": "100 g",
+    "calories": 206,
+    "proteinG": 29.0,
+    "carbG": 0.0,
+    "fatG": 9.0,
+    "aliases": [
+      "steak",
+      "sirloin",
+      "beef steak"
+    ]
+  },
+  {
+    "name": "Salmon (baked)",
+    "servingDescription": "100 g",
+    "calories": 208,
+    "proteinG": 20.4,
+    "carbG": 0.0,
+    "fatG": 13.4,
+    "aliases": [
+      "salmon"
+    ]
+  },
+  {
+    "name": "Tuna (canned in water)",
+    "servingDescription": "100 g",
+    "calories": 116,
+    "proteinG": 25.5,
+    "carbG": 0.0,
+    "fatG": 0.8,
+    "aliases": [
+      "tuna",
+      "canned tuna"
+    ]
+  },
+  {
+    "name": "Shrimp (cooked)",
+    "servingDescription": "100 g",
+    "calories": 99,
+    "proteinG": 24.0,
+    "carbG": 0.2,
+    "fatG": 0.3,
+    "aliases": [
+      "shrimp",
+      "prawns"
+    ]
+  },
+  {
+    "name": "Cod (baked)",
+    "servingDescription": "100 g",
+    "calories": 105,
+    "proteinG": 23.0,
+    "carbG": 0.0,
+    "fatG": 0.9,
+    "aliases": [
+      "cod",
+      "white fish"
+    ]
+  },
+  {
+    "name": "Pork Chop (grilled)",
+    "servingDescription": "100 g",
+    "calories": 231,
+    "proteinG": 25.7,
+    "carbG": 0.0,
+    "fatG": 13.9,
+    "aliases": [
+      "pork chop",
+      "pork"
+    ]
+  },
+  {
+    "name": "Bacon",
+    "servingDescription": "2 slices (16 g)",
+    "calories": 90,
+    "proteinG": 6.0,
+    "carbG": 0.3,
+    "fatG": 7.0,
+    "aliases": [
+      "bacon"
+    ]
+  },
+  {
+    "name": "Egg (whole, boiled)",
+    "servingDescription": "1 large (50 g)",
+    "calories": 78,
+    "proteinG": 6.3,
+    "carbG": 0.6,
+    "fatG": 5.3,
+    "aliases": [
+      "egg",
+      "boiled egg",
+      "hard boiled egg"
+    ]
+  },
+  {
+    "name": "Egg Whites",
+    "servingDescription": "1 cup (243 g)",
+    "calories": 117,
+    "proteinG": 24.5,
+    "carbG": 1.6,
+    "fatG": 0.5,
+    "aliases": [
+      "egg whites"
+    ]
+  },
+  {
+    "name": "Turkey Breast (roasted)",
+    "servingDescription": "100 g",
+    "calories": 135,
+    "proteinG": 30.1,
+    "carbG": 0.0,
+    "fatG": 1.0,
+    "aliases": [
+      "turkey",
+      "turkey breast"
+    ]
+  },
+  {
+    "name": "Tofu (firm)",
+    "servingDescription": "100 g",
+    "calories": 144,
+    "proteinG": 15.5,
+    "carbG": 3.0,
+    "fatG": 8.7,
+    "aliases": [
+      "tofu"
+    ]
+  },
+  {
+    "name": "Tempeh",
+    "servingDescription": "100 g",
+    "calories": 192,
+    "proteinG": 20.3,
+    "carbG": 7.6,
+    "fatG": 10.8,
+    "aliases": [
+      "tempeh"
+    ]
+  },
+  {
+    "name": "Black Beans (cooked)",
+    "servingDescription": "1 cup (172 g)",
+    "calories": 227,
+    "proteinG": 15.2,
+    "carbG": 40.8,
+    "fatG": 0.9,
+    "aliases": [
+      "black beans"
+    ]
+  },
+  {
+    "name": "Chickpeas (cooked)",
+    "servingDescription": "1 cup (164 g)",
+    "calories": 269,
+    "proteinG": 14.5,
+    "carbG": 45.0,
+    "fatG": 4.2,
+    "aliases": [
+      "chickpeas",
+      "garbanzo beans"
+    ]
+  },
+  {
+    "name": "Lentils (cooked)",
+    "servingDescription": "1 cup (198 g)",
+    "calories": 230,
+    "proteinG": 17.9,
+    "carbG": 39.9,
+    "fatG": 0.8,
+    "aliases": [
+      "lentils"
+    ]
+  },
+  {
+    "name": "Edamame",
+    "servingDescription": "1 cup (155 g)",
+    "calories": 188,
+    "proteinG": 18.4,
+    "carbG": 15.4,
+    "fatG": 8.1,
+    "aliases": [
+      "edamame"
+    ]
+  },
+  {
+    "name": "White Rice (cooked)",
+    "servingDescription": "1 cup (158 g)",
+    "calories": 205,
+    "proteinG": 4.3,
+    "carbG": 44.5,
+    "fatG": 0.4,
+    "aliases": [
+      "white rice",
+      "rice"
+    ]
+  },
+  {
+    "name": "Brown Rice (cooked)",
+    "servingDescription": "1 cup (195 g)",
+    "calories": 216,
+    "proteinG": 5.0,
+    "carbG": 44.8,
+    "fatG": 1.8,
+    "aliases": [
+      "brown rice"
+    ]
+  },
+  {
+    "name": "Quinoa (cooked)",
+    "servingDescription": "1 cup (185 g)",
+    "calories": 222,
+    "proteinG": 8.1,
+    "carbG": 39.4,
+    "fatG": 3.6,
+    "aliases": [
+      "quinoa"
+    ]
+  },
+  {
+    "name": "Oatmeal (cooked, plain)",
+    "servingDescription": "1 cup (234 g)",
+    "calories": 166,
+    "proteinG": 5.9,
+    "carbG": 28.1,
+    "fatG": 3.6,
+    "aliases": [
+      "oatmeal",
+      "oats",
+      "porridge"
+    ]
+  },
+  {
+    "name": "Whole Wheat Bread",
+    "servingDescription": "1 slice (28 g)",
+    "calories": 81,
+    "proteinG": 4.0,
+    "carbG": 13.8,
+    "fatG": 1.1,
+    "aliases": [
+      "bread",
+      "whole wheat bread",
+      "toast"
+    ]
+  },
+  {
+    "name": "White Bread",
+    "servingDescription": "1 slice (25 g)",
+    "calories": 67,
+    "proteinG": 2.0,
+    "carbG": 12.7,
+    "fatG": 0.8,
+    "aliases": [
+      "white bread"
+    ]
+  },
+  {
+    "name": "Bagel",
+    "servingDescription": "1 medium (98 g)",
+    "calories": 245,
+    "proteinG": 9.5,
+    "carbG": 48.0,
+    "fatG": 1.5,
+    "aliases": [
+      "bagel"
+    ]
+  },
+  {
+    "name": "Tortilla (flour)",
+    "servingDescription": "1 medium (49 g)",
+    "calories": 146,
+    "proteinG": 3.9,
+    "carbG": 24.3,
+    "fatG": 3.6,
+    "aliases": [
+      "tortilla",
+      "flour tortilla"
+    ]
+  },
+  {
+    "name": "Pasta (cooked)",
+    "servingDescription": "1 cup (140 g)",
+    "calories": 221,
+    "proteinG": 8.1,
+    "carbG": 43.2,
+    "fatG": 1.3,
+    "aliases": [
+      "pasta",
+      "spaghetti",
+      "noodles"
+    ]
+  },
+  {
+    "name": "Whole Wheat Pasta (cooked)",
+    "servingDescription": "1 cup (140 g)",
+    "calories": 174,
+    "proteinG": 7.5,
+    "carbG": 37.2,
+    "fatG": 0.8,
+    "aliases": [
+      "whole wheat pasta"
+    ]
+  },
+  {
+    "name": "Couscous (cooked)",
+    "servingDescription": "1 cup (157 g)",
+    "calories": 176,
+    "proteinG": 6.0,
+    "carbG": 36.5,
+    "fatG": 0.3,
+    "aliases": [
+      "couscous"
+    ]
+  },
+  {
+    "name": "Granola",
+    "servingDescription": "1/2 cup (61 g)",
+    "calories": 298,
+    "proteinG": 7.0,
+    "carbG": 32.0,
+    "fatG": 15.0,
+    "aliases": [
+      "granola"
+    ]
+  },
+  {
+    "name": "Greek Yogurt (plain, nonfat)",
+    "servingDescription": "1 cup (245 g)",
+    "calories": 133,
+    "proteinG": 23.0,
+    "carbG": 9.0,
+    "fatG": 0.4,
+    "aliases": [
+      "greek yogurt",
+      "yogurt"
+    ]
+  },
+  {
+    "name": "Whole Milk",
+    "servingDescription": "1 cup (244 g)",
+    "calories": 149,
+    "proteinG": 7.7,
+    "carbG": 11.7,
+    "fatG": 7.9,
+    "aliases": [
+      "milk",
+      "whole milk"
+    ]
+  },
+  {
+    "name": "Skim Milk",
+    "servingDescription": "1 cup (245 g)",
+    "calories": 83,
+    "proteinG": 8.3,
+    "carbG": 12.2,
+    "fatG": 0.2,
+    "aliases": [
+      "skim milk",
+      "nonfat milk"
+    ]
+  },
+  {
+    "name": "Almond Milk (unsweetened)",
+    "servingDescription": "1 cup (240 g)",
+    "calories": 39,
+    "proteinG": 1.5,
+    "carbG": 3.4,
+    "fatG": 2.9,
+    "aliases": [
+      "almond milk"
+    ]
+  },
+  {
+    "name": "Cottage Cheese (2%)",
+    "servingDescription": "1 cup (226 g)",
+    "calories": 194,
+    "proteinG": 27.1,
+    "carbG": 9.4,
+    "fatG": 4.3,
+    "aliases": [
+      "cottage cheese"
+    ]
+  },
+  {
+    "name": "Cheddar Cheese",
+    "servingDescription": "1 oz (28 g)",
+    "calories": 115,
+    "proteinG": 7.0,
+    "carbG": 0.4,
+    "fatG": 9.5,
+    "aliases": [
+      "cheddar",
+      "cheese"
+    ]
+  },
+  {
+    "name": "Mozzarella Cheese (part-skim)",
+    "servingDescription": "1 oz (28 g)",
+    "calories": 72,
+    "proteinG": 6.9,
+    "carbG": 0.8,
+    "fatG": 4.5,
+    "aliases": [
+      "mozzarella"
+    ]
+  },
+  {
+    "name": "Butter",
+    "servingDescription": "1 tbsp (14 g)",
+    "calories": 102,
+    "proteinG": 0.1,
+    "carbG": 0.0,
+    "fatG": 11.5,
+    "aliases": [
+      "butter"
+    ]
+  },
+  {
+    "name": "Peanut Butter",
+    "servingDescription": "2 tbsp (32 g)",
+    "calories": 188,
+    "proteinG": 8.0,
+    "carbG": 6.9,
+    "fatG": 16.0,
+    "aliases": [
+      "peanut butter",
+      "pb"
+    ]
+  },
+  {
+    "name": "Almond Butter",
+    "servingDescription": "2 tbsp (32 g)",
+    "calories": 196,
+    "proteinG": 6.7,
+    "carbG": 6.0,
+    "fatG": 17.8,
+    "aliases": [
+      "almond butter"
+    ]
+  },
+  {
+    "name": "Almonds",
+    "servingDescription": "1 oz / 23 nuts (28 g)",
+    "calories": 164,
+    "proteinG": 6.0,
+    "carbG": 6.1,
+    "fatG": 14.2,
+    "aliases": [
+      "almonds"
+    ]
+  },
+  {
+    "name": "Walnuts",
+    "servingDescription": "1 oz / 14 halves (28 g)",
+    "calories": 185,
+    "proteinG": 4.3,
+    "carbG": 3.9,
+    "fatG": 18.5,
+    "aliases": [
+      "walnuts"
+    ]
+  },
+  {
+    "name": "Cashews",
+    "servingDescription": "1 oz (28 g)",
+    "calories": 157,
+    "proteinG": 5.2,
+    "carbG": 8.6,
+    "fatG": 12.4,
+    "aliases": [
+      "cashews"
+    ]
+  },
+  {
+    "name": "Pistachios",
+    "servingDescription": "1 oz (28 g)",
+    "calories": 159,
+    "proteinG": 5.7,
+    "carbG": 7.8,
+    "fatG": 12.8,
+    "aliases": [
+      "pistachios"
+    ]
+  },
+  {
+    "name": "Chia Seeds",
+    "servingDescription": "2 tbsp (24 g)",
+    "calories": 139,
+    "proteinG": 4.7,
+    "carbG": 12.0,
+    "fatG": 8.7,
+    "aliases": [
+      "chia seeds",
+      "chia"
+    ]
+  },
+  {
+    "name": "Olive Oil",
+    "servingDescription": "1 tbsp (13.5 g)",
+    "calories": 119,
+    "proteinG": 0.0,
+    "carbG": 0.0,
+    "fatG": 13.5,
+    "aliases": [
+      "olive oil"
+    ]
+  },
+  {
+    "name": "Hummus",
+    "servingDescription": "2 tbsp (30 g)",
+    "calories": 70,
+    "proteinG": 1.7,
+    "carbG": 4.3,
+    "fatG": 5.0,
+    "aliases": [
+      "hummus"
+    ]
+  },
+  {
+    "name": "Guacamole",
+    "servingDescription": "2 tbsp (30 g)",
+    "calories": 47,
+    "proteinG": 0.6,
+    "carbG": 2.7,
+    "fatG": 4.3,
+    "aliases": [
+      "guacamole",
+      "guac"
+    ]
+  },
+  {
+    "name": "Dark Chocolate (70%+)",
+    "servingDescription": "1 oz (28 g)",
+    "calories": 170,
+    "proteinG": 2.2,
+    "carbG": 13.0,
+    "fatG": 12.0,
+    "aliases": [
+      "dark chocolate",
+      "chocolate"
+    ]
+  },
+  {
+    "name": "Protein Shake (whey, 1 scoop + water)",
+    "servingDescription": "1 serving (~250 ml)",
+    "calories": 120,
+    "proteinG": 24.0,
+    "carbG": 3.0,
+    "fatG": 1.5,
+    "aliases": [
+      "protein shake",
+      "whey protein",
+      "protein powder"
+    ]
+  },
+  {
+    "name": "Protein Bar",
+    "servingDescription": "1 bar (60 g)",
+    "calories": 220,
+    "proteinG": 20.0,
+    "carbG": 22.0,
+    "fatG": 8.0,
+    "aliases": [
+      "protein bar"
+    ]
+  },
+  {
+    "name": "Hard-Boiled Egg Snack Pack (2 eggs)",
+    "servingDescription": "2 eggs (100 g)",
+    "calories": 140,
+    "proteinG": 12.6,
+    "carbG": 1.2,
+    "fatG": 10.0,
+    "aliases": [
+      "egg snack"
+    ]
+  },
+  {
+    "name": "Cheeseburger (fast food)",
+    "servingDescription": "1 sandwich (~150 g)",
+    "calories": 300,
+    "proteinG": 17.0,
+    "carbG": 25.0,
+    "fatG": 15.0,
+    "aliases": [
+      "cheeseburger",
+      "burger"
+    ]
+  },
+  {
+    "name": "Chicken Caesar Salad (with dressing)",
+    "servingDescription": "1 bowl (~350 g)",
+    "calories": 470,
+    "proteinG": 35.0,
+    "carbG": 15.0,
+    "fatG": 30.0,
+    "aliases": [
+      "caesar salad",
+      "chicken salad"
+    ]
+  },
+  {
+    "name": "Margherita Pizza",
+    "servingDescription": "2 slices (~200 g)",
+    "calories": 480,
+    "proteinG": 20.0,
+    "carbG": 58.0,
+    "fatG": 18.0,
+    "aliases": [
+      "pizza",
+      "margherita pizza"
+    ]
+  },
+  {
+    "name": "Chicken Burrito Bowl",
+    "servingDescription": "1 bowl (~450 g)",
+    "calories": 650,
+    "proteinG": 42.0,
+    "carbG": 68.0,
+    "fatG": 20.0,
+    "aliases": [
+      "burrito bowl",
+      "chipotle bowl"
+    ]
+  },
+  {
+    "name": "Sushi Roll (California roll)",
+    "servingDescription": "8 pieces (~230 g)",
+    "calories": 255,
+    "proteinG": 9.0,
+    "carbG": 38.0,
+    "fatG": 7.0,
+    "aliases": [
+      "sushi",
+      "california roll"
+    ]
+  },
+  {
+    "name": "Pad Thai",
+    "servingDescription": "1 plate (~350 g)",
+    "calories": 580,
+    "proteinG": 22.0,
+    "carbG": 70.0,
+    "fatG": 22.0,
+    "aliases": [
+      "pad thai"
+    ]
+  },
+  {
+    "name": "Ramen (pork)",
+    "servingDescription": "1 bowl (~500 g)",
+    "calories": 550,
+    "proteinG": 25.0,
+    "carbG": 60.0,
+    "fatG": 22.0,
+    "aliases": [
+      "ramen"
+    ]
+  },
+  {
+    "name": "Pho (beef)",
+    "servingDescription": "1 bowl (~600 g)",
+    "calories": 420,
+    "proteinG": 28.0,
+    "carbG": 55.0,
+    "fatG": 8.0,
+    "aliases": [
+      "pho"
+    ]
+  },
+  {
+    "name": "Grilled Chicken Bowl (rice + veg)",
+    "servingDescription": "1 bowl (~400 g)",
+    "calories": 480,
+    "proteinG": 38.0,
+    "carbG": 50.0,
+    "fatG": 12.0,
+    "aliases": [
+      "chicken bowl",
+      "grilled chicken bowl"
+    ]
+  },
+  {
+    "name": "Oatmeal with Berries and Almond Butter",
+    "servingDescription": "1 bowl (~350 g)",
+    "calories": 380,
+    "proteinG": 12.0,
+    "carbG": 52.0,
+    "fatG": 14.0,
+    "aliases": [
+      "oatmeal bowl"
+    ]
+  },
+  {
+    "name": "Avocado Toast (2 slices)",
+    "servingDescription": "2 slices (~180 g)",
+    "calories": 340,
+    "proteinG": 9.0,
+    "carbG": 36.0,
+    "fatG": 19.0,
+    "aliases": [
+      "avocado toast"
+    ]
+  },
+  {
+    "name": "Breakfast Burrito",
+    "servingDescription": "1 wrap (~250 g)",
+    "calories": 520,
+    "proteinG": 22.0,
+    "carbG": 48.0,
+    "fatG": 26.0,
+    "aliases": [
+      "breakfast burrito"
+    ]
+  },
+  {
+    "name": "Pancakes (3, with syrup)",
+    "servingDescription": "3 pancakes (~200 g)",
+    "calories": 520,
+    "proteinG": 9.0,
+    "carbG": 90.0,
+    "fatG": 13.0,
+    "aliases": [
+      "pancakes"
+    ]
+  },
+  {
+    "name": "Waffle (1, with syrup)",
+    "servingDescription": "1 waffle (~150 g)",
+    "calories": 380,
+    "proteinG": 6.0,
+    "carbG": 60.0,
+    "fatG": 13.0,
+    "aliases": [
+      "waffle"
+    ]
+  },
+  {
+    "name": "French Fries",
+    "servingDescription": "medium (~117 g)",
+    "calories": 365,
+    "proteinG": 4.0,
+    "carbG": 48.0,
+    "fatG": 17.0,
+    "aliases": [
+      "fries",
+      "french fries"
+    ]
+  },
+  {
+    "name": "Sweet Potato Fries",
+    "servingDescription": "1 cup (~100 g)",
+    "calories": 216,
+    "proteinG": 2.0,
+    "carbG": 30.0,
+    "fatG": 10.0,
+    "aliases": [
+      "sweet potato fries"
+    ]
+  },
+  {
+    "name": "Caesar Salad (no chicken)",
+    "servingDescription": "1 bowl (~250 g)",
+    "calories": 280,
+    "proteinG": 7.0,
+    "carbG": 12.0,
+    "fatG": 23.0,
+    "aliases": [
+      "caesar salad plain"
+    ]
+  },
+  {
+    "name": "Greek Salad",
+    "servingDescription": "1 bowl (~300 g)",
+    "calories": 220,
+    "proteinG": 7.0,
+    "carbG": 12.0,
+    "fatG": 17.0,
+    "aliases": [
+      "greek salad"
+    ]
+  },
+  {
+    "name": "Coffee (black)",
+    "servingDescription": "1 cup (240 ml)",
+    "calories": 2,
+    "proteinG": 0.3,
+    "carbG": 0.0,
+    "fatG": 0.0,
+    "aliases": [
+      "coffee",
+      "black coffee"
+    ]
+  },
+  {
+    "name": "Latte (whole milk)",
+    "servingDescription": "1 cup (12 oz)",
+    "calories": 150,
+    "proteinG": 8.0,
+    "carbG": 12.0,
+    "fatG": 8.0,
+    "aliases": [
+      "latte"
+    ]
+  },
+  {
+    "name": "Cappuccino",
+    "servingDescription": "1 cup (6 oz)",
+    "calories": 80,
+    "proteinG": 4.5,
+    "carbG": 6.5,
+    "fatG": 4.0,
+    "aliases": [
+      "cappuccino"
+    ]
+  },
+  {
+    "name": "Orange Juice",
+    "servingDescription": "1 cup (248 g)",
+    "calories": 112,
+    "proteinG": 1.7,
+    "carbG": 25.8,
+    "fatG": 0.5,
+    "aliases": [
+      "orange juice",
+      "oj"
+    ]
+  },
+  {
+    "name": "Soda (cola)",
+    "servingDescription": "12 oz can (355 ml)",
+    "calories": 140,
+    "proteinG": 0.0,
+    "carbG": 39.0,
+    "fatG": 0.0,
+    "aliases": [
+      "soda",
+      "cola",
+      "coke"
+    ]
+  },
+  {
+    "name": "Beer (regular)",
+    "servingDescription": "12 oz (355 ml)",
+    "calories": 153,
+    "proteinG": 1.6,
+    "carbG": 13.0,
+    "fatG": 0.0,
+    "aliases": [
+      "beer"
+    ]
+  },
+  {
+    "name": "Red Wine",
+    "servingDescription": "5 oz (148 ml)",
+    "calories": 125,
+    "proteinG": 0.1,
+    "carbG": 3.8,
+    "fatG": 0.0,
+    "aliases": [
+      "red wine",
+      "wine"
+    ]
+  },
+  {
+    "name": "White Wine",
+    "servingDescription": "5 oz (148 ml)",
+    "calories": 121,
+    "proteinG": 0.1,
+    "carbG": 3.8,
+    "fatG": 0.0,
+    "aliases": [
+      "white wine"
+    ]
+  },
+  {
+    "name": "Protein Smoothie (fruit + whey)",
+    "servingDescription": "1 serving (~400 ml)",
+    "calories": 280,
+    "proteinG": 25.0,
+    "carbG": 35.0,
+    "fatG": 4.0,
+    "aliases": [
+      "smoothie",
+      "protein smoothie"
+    ]
+  },
+  {
+    "name": "Ice Cream (vanilla)",
+    "servingDescription": "1/2 cup (66 g)",
+    "calories": 137,
+    "proteinG": 2.3,
+    "carbG": 15.6,
+    "fatG": 7.3,
+    "aliases": [
+      "ice cream"
+    ]
+  },
+  {
+    "name": "Chocolate Chip Cookie",
+    "servingDescription": "1 medium (23 g)",
+    "calories": 110,
+    "proteinG": 1.2,
+    "carbG": 15.0,
+    "fatG": 5.0,
+    "aliases": [
+      "cookie",
+      "chocolate chip cookie"
+    ]
+  },
+  {
+    "name": "Croissant",
+    "servingDescription": "1 medium (57 g)",
+    "calories": 231,
+    "proteinG": 4.7,
+    "carbG": 26.1,
+    "fatG": 12.0,
+    "aliases": [
+      "croissant"
+    ]
+  },
+  {
+    "name": "Muffin (blueberry)",
+    "servingDescription": "1 medium (113 g)",
+    "calories": 340,
+    "proteinG": 5.0,
+    "carbG": 50.0,
+    "fatG": 13.0,
+    "aliases": [
+      "muffin",
+      "blueberry muffin"
+    ]
+  },
+  {
+    "name": "Donut (glazed)",
+    "servingDescription": "1 medium (60 g)",
+    "calories": 240,
+    "proteinG": 3.0,
+    "carbG": 26.0,
+    "fatG": 14.0,
+    "aliases": [
+      "donut",
+      "doughnut"
+    ]
+  },
+  {
+    "name": "Popcorn (air-popped)",
+    "servingDescription": "3 cups (24 g)",
+    "calories": 93,
+    "proteinG": 3.0,
+    "carbG": 18.7,
+    "fatG": 1.1,
+    "aliases": [
+      "popcorn"
+    ]
+  },
+  {
+    "name": "Potato Chips",
+    "servingDescription": "1 oz (28 g)",
+    "calories": 152,
+    "proteinG": 2.0,
+    "carbG": 15.0,
+    "fatG": 10.0,
+    "aliases": [
+      "chips",
+      "potato chips"
+    ]
+  },
+  {
+    "name": "Tortilla Chips + Salsa",
+    "servingDescription": "1 oz chips + 2 tbsp salsa",
+    "calories": 158,
+    "proteinG": 2.5,
+    "carbG": 22.0,
+    "fatG": 7.0,
+    "aliases": [
+      "tortilla chips"
+    ]
+  },
+  {
+    "name": "Trail Mix",
+    "servingDescription": "1/4 cup (36 g)",
+    "calories": 173,
+    "proteinG": 5.0,
+    "carbG": 17.0,
+    "fatG": 11.0,
+    "aliases": [
+      "trail mix"
+    ]
+  },
+  {
+    "name": "Apple with Peanut Butter",
+    "servingDescription": "1 apple + 1 tbsp PB",
+    "calories": 189,
+    "proteinG": 4.5,
+    "carbG": 29.0,
+    "fatG": 8.5,
+    "aliases": [
+      "apple pb snack"
+    ]
+  },
+  {
+    "name": "Rice Cake with Almond Butter",
+    "servingDescription": "1 cake + 1 tbsp",
+    "calories": 133,
+    "proteinG": 3.6,
+    "carbG": 14.5,
+    "fatG": 8.0,
+    "aliases": [
+      "rice cake snack"
+    ]
+  },
+  {
+    "name": "Steamed Broccoli with Olive Oil",
+    "servingDescription": "1 cup + 1 tsp oil",
+    "calories": 70,
+    "proteinG": 2.7,
+    "carbG": 6.3,
+    "fatG": 4.0,
+    "aliases": [
+      "steamed broccoli"
+    ]
+  },
+  {
+    "name": "Mixed Berries Bowl",
+    "servingDescription": "1.5 cups mixed",
+    "calories": 90,
+    "proteinG": 1.3,
+    "carbG": 21.0,
+    "fatG": 0.6,
+    "aliases": [
+      "berries bowl",
+      "mixed berries"
+    ]
+  },
+  {
+    "name": "Protein Pancakes (3)",
+    "servingDescription": "3 pancakes (~180 g)",
+    "calories": 330,
+    "proteinG": 28.0,
+    "carbG": 32.0,
+    "fatG": 9.0,
+    "aliases": [
+      "protein pancakes"
+    ]
+  },
+  {
+    "name": "Bacon, Egg & Cheese Sandwich",
+    "servingDescription": "1 sandwich (~180 g)",
+    "calories": 450,
+    "proteinG": 20.0,
+    "carbG": 32.0,
+    "fatG": 26.0,
+    "aliases": [
+      "bacon egg cheese sandwich",
+      "bec"
+    ]
+  },
+  {
+    "name": "Turkey Sandwich (whole wheat)",
+    "servingDescription": "1 sandwich (~220 g)",
+    "calories": 380,
+    "proteinG": 28.0,
+    "carbG": 42.0,
+    "fatG": 10.0,
+    "aliases": [
+      "turkey sandwich"
+    ]
+  },
+  {
+    "name": "BLT Sandwich",
+    "servingDescription": "1 sandwich (~200 g)",
+    "calories": 420,
+    "proteinG": 15.0,
+    "carbG": 34.0,
+    "fatG": 25.0,
+    "aliases": [
+      "blt"
+    ]
+  },
+  {
+    "name": "Chicken Noodle Soup",
+    "servingDescription": "1 cup (~245 g)",
+    "calories": 120,
+    "proteinG": 8.0,
+    "carbG": 15.0,
+    "fatG": 3.0,
+    "aliases": [
+      "chicken noodle soup"
+    ]
+  },
+  {
+    "name": "Minestrone Soup",
+    "servingDescription": "1 cup (~245 g)",
+    "calories": 110,
+    "proteinG": 5.0,
+    "carbG": 18.0,
+    "fatG": 2.5,
+    "aliases": [
+      "minestrone"
+    ]
+  },
+  {
+    "name": "Chili (beef and beans)",
+    "servingDescription": "1 cup (~250 g)",
+    "calories": 290,
+    "proteinG": 20.0,
+    "carbG": 26.0,
+    "fatG": 12.0,
+    "aliases": [
+      "chili"
+    ]
+  },
+  {
+    "name": "Stir-Fry Vegetables with Tofu",
+    "servingDescription": "1 bowl (~350 g)",
+    "calories": 320,
+    "proteinG": 18.0,
+    "carbG": 28.0,
+    "fatG": 16.0,
+    "aliases": [
+      "tofu stir fry",
+      "stir fry"
+    ]
+  },
+  {
+    "name": "Beef and Broccoli",
+    "servingDescription": "1 plate (~350 g)",
+    "calories": 420,
+    "proteinG": 32.0,
+    "carbG": 26.0,
+    "fatG": 20.0,
+    "aliases": [
+      "beef and broccoli"
+    ]
+  },
+  {
+    "name": "Fajitas (chicken, no tortilla)",
+    "servingDescription": "1 plate (~300 g)",
+    "calories": 320,
+    "proteinG": 32.0,
+    "carbG": 18.0,
+    "fatG": 13.0,
+    "aliases": [
+      "fajitas"
+    ]
+  },
+  {
+    "name": "Tacos (2, chicken)",
+    "servingDescription": "2 tacos (~220 g)",
+    "calories": 380,
+    "proteinG": 26.0,
+    "carbG": 32.0,
+    "fatG": 15.0,
+    "aliases": [
+      "tacos",
+      "chicken tacos"
+    ]
+  },
+  {
+    "name": "Falafel (4 pieces)",
+    "servingDescription": "4 pieces (~90 g)",
+    "calories": 280,
+    "proteinG": 10.0,
+    "carbG": 28.0,
+    "fatG": 15.0,
+    "aliases": [
+      "falafel"
+    ]
+  },
+  {
+    "name": "Protein Cookie",
+    "servingDescription": "1 cookie (70 g)",
+    "calories": 240,
+    "proteinG": 20.0,
+    "carbG": 24.0,
+    "fatG": 8.0,
+    "aliases": [
+      "protein cookie"
+    ]
+  },
+  {
+    "name": "Kombucha",
+    "servingDescription": "8 oz (240 ml)",
+    "calories": 30,
+    "proteinG": 0.0,
+    "carbG": 7.0,
+    "fatG": 0.0,
+    "aliases": [
+      "kombucha"
+    ]
+  },
+  {
+    "name": "Sparkling Water",
+    "servingDescription": "12 oz (355 ml)",
+    "calories": 0,
+    "proteinG": 0.0,
+    "carbG": 0.0,
+    "fatG": 0.0,
+    "aliases": [
+      "sparkling water",
+      "seltzer"
+    ]
+  },
+  {
+    "name": "Energy Drink",
+    "servingDescription": "8 oz (240 ml)",
+    "calories": 110,
+    "proteinG": 0.0,
+    "carbG": 28.0,
+    "fatG": 0.0,
+    "aliases": [
+      "energy drink"
+    ]
+  },
+  {
+    "name": "Milkshake (chocolate)",
+    "servingDescription": "12 oz (~350 ml)",
+    "calories": 530,
+    "proteinG": 10.0,
+    "carbG": 80.0,
+    "fatG": 18.0,
+    "aliases": [
+      "milkshake"
+    ]
+  },
+  {
+    "name": "Poke Bowl (salmon)",
+    "servingDescription": "1 bowl (~450 g)",
+    "calories": 520,
+    "proteinG": 32.0,
+    "carbG": 55.0,
+    "fatG": 18.0,
+    "aliases": [
+      "poke bowl",
+      "poke"
+    ]
+  },
+  {
+    "name": "Overnight Oats with Chia and Berries",
+    "servingDescription": "1 jar (~300 g)",
+    "calories": 340,
+    "proteinG": 14.0,
+    "carbG": 50.0,
+    "fatG": 10.0,
+    "aliases": [
+      "overnight oats"
+    ]
+  },
+  {
+    "name": "Egg White Omelet with Veggies",
+    "servingDescription": "3 egg whites + veg (~200 g)",
+    "calories": 160,
+    "proteinG": 20.0,
+    "carbG": 8.0,
+    "fatG": 4.0,
+    "aliases": [
+      "egg white omelet",
+      "omelet"
+    ]
+  },
+  {
+    "name": "Cheese Omelet (3 eggs)",
+    "servingDescription": "3 eggs + cheese (~220 g)",
+    "calories": 380,
+    "proteinG": 24.0,
+    "carbG": 3.0,
+    "fatG": 29.0,
+    "aliases": [
+      "cheese omelet"
+    ]
+  },
+  {
+    "name": "Chicken Quesadilla",
+    "servingDescription": "1 quesadilla (~250 g)",
+    "calories": 520,
+    "proteinG": 30.0,
+    "carbG": 38.0,
+    "fatG": 26.0,
+    "aliases": [
+      "quesadilla"
+    ]
+  },
+  {
+    "name": "Veggie Wrap",
+    "servingDescription": "1 wrap (~250 g)",
+    "calories": 340,
+    "proteinG": 10.0,
+    "carbG": 46.0,
+    "fatG": 13.0,
+    "aliases": [
+      "veggie wrap"
+    ]
+  },
+  {
+    "name": "Protein Bagel Sandwich",
+    "servingDescription": "1 sandwich (~220 g)",
+    "calories": 420,
+    "proteinG": 32.0,
+    "carbG": 44.0,
+    "fatG": 12.0,
+    "aliases": [
+      "protein bagel"
+    ]
+  },
+  {
+    "name": "Baked Salmon with Asparagus",
+    "servingDescription": "1 plate (~300 g)",
+    "calories": 380,
+    "proteinG": 34.0,
+    "carbG": 8.0,
+    "fatG": 22.0,
+    "aliases": [
+      "salmon dinner",
+      "baked salmon"
+    ]
+  },
+  {
+    "name": "Steak with Sweet Potato",
+    "servingDescription": "1 plate (~350 g)",
+    "calories": 520,
+    "proteinG": 38.0,
+    "carbG": 35.0,
+    "fatG": 22.0,
+    "aliases": [
+      "steak dinner"
+    ]
+  },
+  {
+    "name": "Shrimp Scampi (pasta)",
+    "servingDescription": "1 plate (~350 g)",
+    "calories": 520,
+    "proteinG": 28.0,
+    "carbG": 58.0,
+    "fatG": 18.0,
+    "aliases": [
+      "shrimp scampi"
+    ]
+  },
+  {
+    "name": "Vegetable Curry with Rice",
+    "servingDescription": "1 bowl (~400 g)",
+    "calories": 420,
+    "proteinG": 10.0,
+    "carbG": 68.0,
+    "fatG": 12.0,
+    "aliases": [
+      "veggie curry",
+      "curry"
+    ]
+  },
+  {
+    "name": "Chicken Tikka Masala with Rice",
+    "servingDescription": "1 bowl (~450 g)",
+    "calories": 620,
+    "proteinG": 34.0,
+    "carbG": 62.0,
+    "fatG": 24.0,
+    "aliases": [
+      "chicken tikka masala",
+      "tikka masala"
+    ]
+  },
+  {
+    "name": "Butter Chicken with Rice",
+    "servingDescription": "1 bowl (~450 g)",
+    "calories": 680,
+    "proteinG": 32.0,
+    "carbG": 60.0,
+    "fatG": 32.0,
+    "aliases": [
+      "butter chicken"
+    ]
+  },
+  {
+    "name": "Dumplings (steamed, 6)",
+    "servingDescription": "6 pieces (~180 g)",
+    "calories": 300,
+    "proteinG": 12.0,
+    "carbG": 40.0,
+    "fatG": 9.0,
+    "aliases": [
+      "dumplings",
+      "potstickers"
+    ]
+  },
+  {
+    "name": "Fried Rice (chicken)",
+    "servingDescription": "1 cup (~200 g)",
+    "calories": 340,
+    "proteinG": 16.0,
+    "carbG": 42.0,
+    "fatG": 11.0,
+    "aliases": [
+      "fried rice"
+    ]
+  },
+  {
+    "name": "Miso Soup",
+    "servingDescription": "1 bowl (~240 ml)",
+    "calories": 40,
+    "proteinG": 3.0,
+    "carbG": 4.0,
+    "fatG": 1.5,
+    "aliases": [
+      "miso soup"
+    ]
+  },
+  {
+    "name": "Protein Iced Coffee",
+    "servingDescription": "1 serving (~350 ml)",
+    "calories": 140,
+    "proteinG": 20.0,
+    "carbG": 10.0,
+    "fatG": 2.0,
+    "aliases": [
+      "protein coffee",
+      "protein iced coffee"
+    ]
+  }
+]
