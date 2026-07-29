@@ -1,0 +1,30 @@
+## Xcode
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+## Swift Package Manager
+.swiftpm/
+.build/
+
+## CocoaPods (not used, but just in case)
+Pods/
+
+## Secrets — never commit API keys
+Secrets.xcconfig
+*.env
+.env.local
+
+## macOS
+.DS_Store
+
+## Generated image cache (regenerated at runtime, not checked in)
+CalorieAI/Resources/GeneratedImageCache/
